@@ -44,7 +44,7 @@ export default class TextField extends PureComponent {
     autoCapitalize: 'sentences',
     editable: true,
 
-    animationDuration: 225,
+    animationDuration: 120,
 
     fontSize: 16,
     labelFontSize: 12,
